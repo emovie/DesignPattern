@@ -18,7 +18,7 @@ public class ConfirmMain {
 		
 		String target = "/cancle";
 		
-		Confirm targetConfirm = map.get(target);	// 발동자
+		Confirm targetConfirm = map.get(target);
 		
 		targetConfirm.confirm();
 		

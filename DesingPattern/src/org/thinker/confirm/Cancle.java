@@ -4,7 +4,7 @@ public class Cancle implements Confirm {
 
 	@Override
 	public void confirm() {
-		System.out.println("cancle process");		// command
+		System.out.println("cancle process");
 	}
 
 }

@@ -10,9 +10,9 @@ public class TestObj extends ParentObj {
 	// static은 메모리 상에 올라가면서 main보다 먼저 실행된다
 	// 최초 한번만 실행된다
 	
-//	public TestObj() {
-//		System.out.println("빈 생성자");
-//	}
+	public TestObj() {
+		System.out.println("빈 생성자");
+	}
 	
 	public TestObj(String str) {
 		System.out.println("문자열 생성자");
