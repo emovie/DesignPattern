@@ -1,3 +1,4 @@
+<<<<<<< HEAD:DesignPattern/DesingPattern/src/factoryMethod/framework/ItemCreate.java
 package factoryMethod.framework;
 
 public abstract class ItemCreate {
