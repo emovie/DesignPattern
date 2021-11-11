@@ -13,6 +13,8 @@ public abstract class ItemCreate {
 		
 		createItemLog();
 		
+		System.out.println("main test commit");
+		
 		return item;
 	}
 	
